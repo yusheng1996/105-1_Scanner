@@ -1,0 +1,23 @@
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+java scanner105
+pause

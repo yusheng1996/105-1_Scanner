@@ -1,0 +1,89 @@
+1	 token < with length 1 belongs to comparator
+		 The token 'stdio' is Undefinded'
+2	 token int with length 3 belongs to reserved word
+3	 token ia with length 2 belongs to indentifier
+4	 token , with length 1 belongs to punctuation
+5	 token ib with length 2 belongs to indentifier
+6	 token , with length 1 belongs to punctuation
+7	 token ic with length 2 belongs to indentifier
+8	 token , with length 1 belongs to punctuation
+9	 token d with length 1 belongs to indentifier
+10	 token , with length 1 belongs to punctuation
+11	 token *ie with length 3 belongs to pointer
+12	 token , with length 1 belongs to punctuation
+13	 token forif with length 5 belongs to indentifier
+14	 token ; with length 1 belongs to punctuation
+15	 token ia with length 2 belongs to indentifier
+16	 token = with length 1 belongs to operator
+		 The token 'ac' is Undefinded'
+17	 token forif with length 5 belongs to indentifier
+18	 token = with length 1 belongs to operator
+19	 token ia with length 2 belongs to indentifier
+20	 token / with length 1 belongs to operator
+21	 token 5 with length 1 belongs to comment
+22	 token + with length 1 belongs to operator
+23	 token 8 with length 1 belongs to comment
+24	 token ; with length 1 belongs to punctuation
+25	 token ; with length 1 belongs to punctuation
+		 The token 'whilefor' is Undefinded'
+26	 token scanf with length 5 belongs to reserved word
+27	 token ( with length 1 belongs to bracket
+28	 token " with length 1 belongs to punctuation
+29	 token %d with length 2 belongs to format specifier
+30	 token " with length 1 belongs to punctuation
+31	 token , with length 1 belongs to punctuation
+		 The token 'ac' is Undefinded'
+32	 token ) with length 1 belongs to bracket
+33	 token ; with length 1 belongs to punctuation
+34	 token iF with length 2 belongs to reserved word
+35	 token ( with length 1 belongs to bracket
+36	 token ia with length 2 belongs to indentifier
+37	 token > with length 1 belongs to comparator
+38	 token 5 with length 1 belongs to comment
+39	 token ) with length 1 belongs to bracket
+40	 token ic with length 2 belongs to indentifier
+41	 token = with length 1 belongs to operator
+42	 token 5 with length 1 belongs to comment
+43	 token ; with length 1 belongs to punctuation
+44	 token ELsE with length 4 belongs to reserved word
+45	 token ic with length 2 belongs to indentifier
+46	 token = with length 1 belongs to operator
+47	 token 10 with length 2 belongs to comment
+48	 token ; with length 1 belongs to punctuation
+49	 token ia with length 2 belongs to indentifier
+50	 token = with length 1 belongs to operator
+		 The token '*ib' is Undefinded'
+51	 token - with length 1 belongs to operator
+52	 token ic with length 2 belongs to indentifier
+53	 token ; with length 1 belongs to punctuation
+54	 token d with length 1 belongs to indentifier
+55	 token = with length 1 belongs to operator
+56	 token 5 with length 1 belongs to comment
+57	 token * with length 1 belongs to operator
+		 The token 'ie' is Undefinded'
+58	 token ib with length 2 belongs to indentifier
+59	 token = with length 1 belongs to operator
+60	 token forif with length 5 belongs to indentifier
+61	 token % with length 1 belongs to operator
+62	 token d with length 1 belongs to indentifier
+63	 token ; with length 1 belongs to punctuation
+64	 token ic with length 2 belongs to indentifier
+65	 token = with length 1 belongs to operator
+66	 token forif with length 5 belongs to indentifier
+67	 token & with length 1 belongs to operator
+68	 token ia with length 2 belongs to indentifier
+69	 token ; with length 1 belongs to punctuation
+
+
+Total : 69tokens
+
+
+Reserved word : 4
+Identifier : 20
+Constant : 6
+Operator : 14
+Comparator : 2
+Bracket : 4
+Format specifier : 1
+Pointer : 1
+Punctuation : 17
